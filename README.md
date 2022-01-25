@@ -1,6 +1,8 @@
 # assign1git
 Sruti Ganti
 
-First comment
+<<<<<<< HEAD
+First comment 
 
-testbranch change 
+This is a change on newbranch
+
